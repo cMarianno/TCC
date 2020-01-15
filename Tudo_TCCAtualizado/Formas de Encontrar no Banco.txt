@@ -1,0 +1,32 @@
+1º MANEIRA
+DataTable dt = new DataTable();
+            if (dt.Rows.Count > 0)
+            {
+               //existe registro
+            }else
+             //não existe
+
+2º MANEIRA
+SELEC COUNT(1) FROM TB_CONTRATOS WHERE NUMERO_CONTRATO = 1
+
+3º MANEIRA
+public bool ExisteContrato(string connectionString, int numContrato)
+{
+    string queryString = "SELECT COUNT(1) FROM Equipamentos WHERE Num_Contrato = @NumContrato)";
+
+    using (SqlConnection connection = new SqlConnection("SUA CONNECTION STRING AQUI"))
+    {
+        SqlCommand command = new SqlCommand(queryString, connection);
+        command.Parameters.Add("@NumContrato", numContrato);
+        connection.Open();
+
+        var result = command.ExecuteScalar();
+
+        // Call Read before accessing data.
+        if (result != null)
+        {
+            return (int)result > 0;
+        }
+
+        return false;
+    }

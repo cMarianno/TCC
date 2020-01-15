@@ -1,0 +1,51 @@
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.pdb
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csprojResolveAssemblyReference.cache
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.Properties.Resources.resources
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csproj.GenerateResource.Cache
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+C:\Users\mauri\Documents\C#\Exercícios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.FrmContato.resources
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.pdb
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csprojResolveAssemblyReference.cache
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.FrmContato.resources
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.Properties.Resources.resources
+E:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csproj.GenerateResource.Cache
+D:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+D:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+D:\Aulas\C#\2º Bimestre\Exercicios\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+\\10.101.148.3\geral-prof-pd\Maurício\Info32\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+\\10.101.148.3\geral-prof-pd\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+\\10.101.148.3\geral-prof-pd\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.pdb
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csprojResolveAssemblyReference.cache
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.FrmContato.resources
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.Properties.Resources.resources
+Q:\Maurício\Info32\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csproj.GenerateResource.Cache
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.pdb
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csprojResolveAssemblyReference.cache
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.FrmContato.resources
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.Properties.Resources.resources
+Q:\Maurício\Info32\2017\TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csproj.GenerateResource.Cache
+M:\Tudo_TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe.config
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.exe
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.pdb
+M:\Tudo_TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.exe
+M:\Tudo_TCC\SistemaContato\SistemaContato\bin\Debug\SistemaContato.pdb
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csprojResolveAssemblyReference.cache
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.FrmContato.resources
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.Properties.Resources.resources
+M:\Tudo_TCC\SistemaContato\SistemaContato\obj\Debug\SistemaContato.csproj.GenerateResource.Cache

@@ -1,0 +1,49 @@
+bolo de chocolate com recheio de chocolate  30
+bolo de chocolate com recheio de doce de leite
+bolo de chocolate com recheio frutas
+bolo de chocolate com recheio de nutella
+bolo de chocolate com recheio de creme
+bolo de chocolate com recheio de leite ninho
+bolo de doce de leite com recheio de chocolate
+bolo de doce de leite com recheio de doce de leite
+biscoito  5
+bem casado de doce de leite5
+cupcake de chocolate 5
+cupcake de doce de leite
+cupcake de frutas
+cupcake de nutella
+cupcake de creme
+cupcake de leite ninho
+docinho de brigadeiro 2,50
+docinho de beijinho
+pudim 10
+torta de chocolate 15
+torta de creme
+torta de nutella
+torta de frutas
+sobremesa 15
+macarron 10
+pao de mel 5
+alfajor 5
+rocambole de doce de leite 10
+
+if (ComboBoxTipo.Text == "Bolo")
+            {
+                result1 = 30;
+            }
+            else if (ComboBoxTipo.Text == "Biscoito" || ComboBoxTipo.Text == "Bem casado" || ComboBoxTipo.Text == "Cupcake" || ComboBoxTipo.Text == "Pão de Mel" || ComboBoxTipo.Text == "Alfajor")
+            {
+                result1 = 5;
+            }
+            else if (ComboBoxTipo.Text == "Docinhos")
+            {
+                result1 = 2;
+            }
+            else if (ComboBoxTipo.Text == "Torta")
+            {
+                result1 = 15;
+            }
+            else if (ComboBoxTipo.Text == "Pudim" || ComboBoxTipo.Text == "Sobremesas"||ComboBoxTipo.Text == "Rocambole")
+            {
+                result1 = 10;
+            }

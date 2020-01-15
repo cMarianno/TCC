@@ -1,0 +1,155 @@
+**Atendentes
+
+USE [FastCake]
+GO
+
+/****** Object:  Table [dbo].[Atendentes]    Script Date: 01/10/2018 16:06:20 ******/
+DROP TABLE [dbo].[Atendentes]
+GO
+
+/****** Object:  Table [dbo].[Atendentes]    Script Date: 01/10/2018 16:06:20 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Atendentes](
+	[ID] [int] IDENTITY(1,2) NOT NULL,
+	[Nome] [varchar](max) NULL,
+	[Telefone] [varchar](max) NULL,
+	[CPF] [varchar](max) NULL,
+	[DataNascim] [varchar](max) NULL,
+	[Sexo] [varchar](max) NULL,
+	[Email] [varchar](max) NULL,
+	[Senha] [varchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+
+
+**Confeiteiros
+
+USE [FastCake]
+GO
+
+/****** Object:  Table [dbo].[Confeiteiros]    Script Date: 01/10/2018 16:05:36 ******/
+DROP TABLE [dbo].[Confeiteiros]
+GO
+
+/****** Object:  Table [dbo].[Confeiteiros]    Script Date: 01/10/2018 16:05:36 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Confeiteiros](
+	[ID] [int] IDENTITY(2,2) NOT NULL,
+	[Nome] [nvarchar](max) NULL,
+	[Telefone] [nvarchar](max) NULL,
+	[CPF] [nvarchar](max) NULL,
+	[DataNasci] [nvarchar](max) NULL,
+	[Sexo] [nvarchar](max) NULL,
+	[Email] [nvarchar](max) NULL,
+	[Senha] [nvarchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+
+
+**Estoque
+
+USE [FastCake]
+GO
+
+/****** Object:  Table [dbo].[Estoque]    Script Date: 30/09/2018 08:40:36 ******/
+DROP TABLE [dbo].[Estoque]
+GO
+
+/****** Object:  Table [dbo].[Estoque]    Script Date: 30/09/2018 08:40:36 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Estoque](
+	[ProdutoID] [int] IDENTITY(1,1) NOT NULL,
+	[NomeProduto] [nvarchar](50) NULL,
+	[Quantidade] [nchar](10) NULL,
+	[Unidade] [nchar](10) NULL,
+ CONSTRAINT [PK_Estoque] PRIMARY KEY CLUSTERED 
+(
+	[ProdutoID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+**NovoPedido
+
+USE [FastCake]
+GO
+
+/****** Object:  Table [dbo].[NovoPedido]    Script Date: 30/09/2018 08:40:52 ******/
+DROP TABLE [dbo].[NovoPedido]
+GO
+
+/****** Object:  Table [dbo].[NovoPedido]    Script Date: 30/09/2018 08:40:52 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[NovoPedido](
+	[Codigo] [int] IDENTITY(1,1) NOT NULL,
+	[Nome] [varchar](50) NULL,
+	[Telefone] [varchar](15) NULL,
+	[CPF] [varchar](15) NOT NULL,
+	[Data] [varchar](20) NULL,
+	[Horario] [varchar](20) NULL,
+	[Descricao] [varchar](200) NULL,
+ CONSTRAINT [PK_NovoPedido] PRIMARY KEY CLUSTERED 
+(
+	[Codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+**tablelogin
+
+USE [FastCake]
+GO
+
+/****** Object:  Table [dbo].[tablelogin]    Script Date: 30/09/2018 08:41:06 ******/
+DROP TABLE [dbo].[tablelogin]
+GO
+
+/****** Object:  Table [dbo].[tablelogin]    Script Date: 30/09/2018 08:41:06 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tablelogin](
+	[userID] [int] IDENTITY(1,1) NOT NULL,
+	[username] [nchar](20) NULL,
+	[password] [nchar](20) NULL
+) ON [PRIMARY]
+
+GO
+
+
